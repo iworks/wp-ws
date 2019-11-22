@@ -25,6 +25,7 @@
         }
     },
     "require": {
-        "wpackagist-theme/understrap":"0.2.9"
+        "wpackagist-theme/understrap":"0.2.9",
+        "wpackagist-plugin/sierotki":"2.7.1"
     }
 }
